@@ -98,8 +98,8 @@ Y_axis1=[]
 Z_axis=[]
 Z_axis1=[]
 
-j=12
-while (j<24):
+j=42
+while (j<48):
 	Node_num_array=[]
 	Time_Broad_array=[]
 	for i in range(0,99):
